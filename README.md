@@ -8,7 +8,7 @@ Unofficial [Nord](https://github.com/arcticicestudio/nord) theme by [francois la
 ![es6-jsx-sublime-view](https://raw.githubusercontent.com/fjlaubscher/Nord-Sublime-Text/master/Nord-Sublime-Text.jpeg)
 
 In this screenshot I'm using:
-- [Materialize](https://github.com/saadq/Materialize) `Material Spacegray'
+- [Materialize](https://github.com/saadq/Materialize) `Material Spacegray`
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 This theme is based on the [Nord](https://github.com/arcticicestudio/nord) color palette
