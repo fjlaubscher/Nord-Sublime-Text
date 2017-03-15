@@ -1,4 +1,4 @@
-# Poseidon-Theme
+# Nord-Sublime-Text
 Unofficial [Nord](https://github.com/arcticicestudio/nord) theme by [francois laubscher](http://francoislaubscher.com)
 
 #### Slack.com
@@ -6,6 +6,10 @@ Unofficial [Nord](https://github.com/arcticicestudio/nord) theme by [francois la
 
 #### JSX - ES6 View (Sublime Text View)
 ![es6-jsx-sublime-view](https://raw.githubusercontent.com/fjlaubscher/Nord-Sublime-Text/master/Nord-Sublime-Text.jpeg)
+
+In this screenshot I'm using:
+- [Materialize](https://github.com/saadq/Materialize) `Material Spacegray'
+- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 This theme is based on the [Nord](https://github.com/arcticicestudio/nord) color palette
 Thanks to [@zaynali53](https://twitter.com/zaynali53)'s Zeus theme for the ES6 / JSX language definitions
