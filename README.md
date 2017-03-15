@@ -11,5 +11,8 @@ In this screenshot I'm using:
 - [Materialize](https://github.com/saadq/Materialize) `Material Spacegray`
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
+#### Installing
+I haven't published this as a package yet, but in the mean time, copy the theme to your sublime packages folder and it _should_ work :rocket:
+
 This theme is based on the [Nord](https://github.com/arcticicestudio/nord) color palette
 Thanks to [@zaynali53](https://twitter.com/zaynali53)'s Zeus theme for the ES6 / JSX language definitions
